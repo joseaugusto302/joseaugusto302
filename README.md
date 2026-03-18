@@ -1,7 +1,7 @@
 ### Olá! Eu sou José Augusto 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jose_augusto346)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joseaugusto302)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseaugusto302)
 
 ![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=joseaugusto302&show_icons=true&theme=merko)
 
